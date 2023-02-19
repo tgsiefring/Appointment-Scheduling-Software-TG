@@ -1,7 +1,7 @@
 # Appointment-Scheduling-Software
  scheduling software utilizing CRUD operations with a local MySQL database.
 
-This program uses a local database with various relationships (ERD Diagram included). This must be kept in mind when creating data. For example to create a new city it will need its country to be created first (if associated country does not exist). The program was designed to create data in a way that makes sense (left to right tabs in the order that new data should be created to conform to the relationships).
+This program uses a local database with various relationships (ERD included). This must be kept in mind when creating data. For example to create a new city it will need its country to be created first (if associated country does not exist). The program was designed to create data in a way that makes sense (left to right tabs in the order that new data should be created to conform to the relationships).
 
 Below is the script used to populate the local MySQL database and the connectionstring I used:
 
